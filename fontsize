@@ -1,0 +1,10 @@
+syntax:
+ font-size:medium|xx-small|x-small|small|large|x-large|xx-large|smaller|larger|length|initial|inherit;
+ <!DOCTYPE html>
+ <html>
+ <body>
+ <div style="font-size:medium;">
+ WELCOME
+ </div>
+ </body>
+ </html>
