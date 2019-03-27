@@ -1,0 +1,11 @@
+syntax:
+font-variant: normal|small-caps|initial|inherit;
+<!DOCTYPE html>
+<html>
+<body>
+<div style="font-variant:small-caps;">//*it will shows the content should be capitalize and the 1st letter must 
+be larger compared than other letters*//
+WELCOME
+</div>
+</body>
+</html>
