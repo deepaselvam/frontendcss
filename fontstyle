@@ -1,0 +1,10 @@
+syntax:
+font-style: normal|italic|oblique|initial|inherit;
+<!DOCTYPE html>
+<html>
+<body>
+<div >
+<p style="font-style:italic;">WELCOME</p>
+</div>
+</body>
+</html>
