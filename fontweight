@@ -1,0 +1,10 @@
+syntax:
+ font-weight: normal|bold|bolder|lighter|number|initial|inherit;
+ <!DOCTYPE html>
+ <html>
+ <body>
+ <div style="font-weight:bold;">
+ WELCOME
+ </div>
+ </body>
+ </html>
